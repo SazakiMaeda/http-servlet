@@ -1,4 +1,4 @@
-package com.sazakimaeda.http.socket;
+package com.sazakimaeda.http.socket.tcp;
 
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
